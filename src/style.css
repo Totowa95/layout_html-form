@@ -9,12 +9,3 @@
 .entry-field:last-child {
   margin-bottom: 0;
 }
-
-.mini-input {
-  width: 65px;
-}
-
-.comment-icon {
-  width: 150px;
-  height: 30px;
-}
